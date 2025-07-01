@@ -1,0 +1,6 @@
+{
+    "/api/borrowers/pipeline": "/pipeline",
+    "/api/borrowers/:id": "/borrowers/:id",
+    "/api/broker/:id": "/broker/:id",
+    "/api/onboarding/workflow": "/onboarding/workflow"
+  }
